@@ -1,0 +1,1 @@
+# Knowledge_base_RGWEL_P_Series_Soru_Cevap
