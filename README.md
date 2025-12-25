@@ -1,7 +1,4 @@
 # Knowledge_base_RGWEL_P_Series_Soru_Cevap
-Yedek Alındı:
-
-# Knowledge_base_RGWEL_P_Series_Soru_Cevap
 Soru: Makine almak istiyorum
 Cevap: Merhaba! Rgwel Lazer’e hoş geldiniz. Satın alma, teklif veya teknik destek için nasıl yardımcı olabilirim?
 
