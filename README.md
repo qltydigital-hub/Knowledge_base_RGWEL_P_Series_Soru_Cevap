@@ -115,3 +115,10 @@ Cevap: Evet, kurulumda temel kullanım ve güvenlik eğitimi veriyoruz. Detaylı
 
 Soru: Demo yapıyor musunuz?
 Cevap: Evet, makinelerimizin demo gösterimini sağlıyoruz. Demo için iletişim bilgilerinizi paylaşırsanız, size uygun tarih ve detayları iletebiliriz. İsterseniz yerinde veya online demo seçeneklerimiz de mevcut.
+
+
+[RG-W1500P.pdf](https://github.com/user-attachments/files/24337531/RG-W1500P.pdf)
+
+[RG-W2000P.pdf](https://github.com/user-attachments/files/24337537/RG-W2000P.pdf)
+
+[RG-W3000P.pdf](https://github.com/user-attachments/files/24337538/RG-W3000P.pdf)
