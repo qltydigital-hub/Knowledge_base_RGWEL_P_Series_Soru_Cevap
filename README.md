@@ -117,6 +117,69 @@ Soru: Demo yapıyor musunuz?
 Cevap: Evet, makinelerimizin demo gösterimini sağlıyoruz. Demo için iletişim bilgilerinizi paylaşırsanız, size uygun tarih ve detayları iletebiliriz. İsterseniz yerinde veya online demo seçeneklerimiz de mevcut.
 
 
+
+
+Diğer konuşma örneği:
+
+Merhaba
+
+Merhaba, RGWEL’e hoş geldiniz! Size nasıl yardımcı olabilirim? Kaynak, temizlik veya robotik lazer sistemleriyle ilgili bir ihtiyacınız mı var? Lütfen kısaca belirtin, size en uygun çözümü sunmam için birkaç bilgi almam gerekecek.
+El tipi lazer kaynak makinesi hakkında detaylı bilgi istiyorum
+
+El tipi lazer kaynak makinelerimiz endüstriyel kullanım içindir. Hangi malzeme türü (ör. alüminyum, paslanmaz, demir vb.) ve kalınlıkta kaynak yapmak istediğinizi belirtir misiniz? Size en uygun modeli ve teknik detayları hemen paylaşabilirim.
+Alüminyum sandalye kaynatacağım
+
+Alüminyum sandalye kaynağı için malzeme kalınlığını paylaşabilir misiniz? Size en uygun el tipi lazer kaynak makinesi modelini ve teknik detayları hemen iletebilirim.
+2 mm
+
+2 mm alüminyum kaynak için uygun el tipi lazer kaynak makinesi ve fiyat bilgisini hemen paylaşıyorum. Model, güç ve fiyat detayları: P Serisi, güncel USD fiyatı ve teknik bilgiler için şimdi iletiyorum.
+Tamam bekliyorum
+
+2 mm alüminyum için uygun el tipi lazer kaynak makinesi ve güncel USD fiyat aralığıyla ilgili bilgileri hemen iletiyorum. Model: P Serisi, fiyat kurulum ve temel eğitim dahil; teslim süresi stok/konfigürasyona bağlı, satış ekibi teyit eder.
+Robotik sistem yapiyormusunuz
+
+Evet, robotik sistemler ve 3D fiber lazer kesim çözümleri sunuyoruz. Yaskawa robot kolu, 3D kesme kafası, çevrimdışı programlama ve pozisyoner seçenekleriyle endüstriyel otomasyon projelerine uygundur. Uygulamanıza göre detayları satış ekibimiz teyit eder.
+ABB robotum var benim onunla olur mu
+
+ABB marka robot kolları için entegrasyon mümkündür ancak uygulama ve yazılım uyumluluğu satış ekibi tarafından teyit edilir. Projenizin detayları için iletişim bilgilerinizi paylaşabilir misiniz? Size özel çözüm sunabiliriz.
+Ben Mahmut
+
+Memnun oldum Mahmut Bey. Size ABB robot entegrasyonu ve lazer kaynak sistemiyle ilgili özel çözüm sunabilmemiz için telefon ve e-posta bilgilerinizi paylaşabilir misiniz? Satış ekibimiz en kısa sürede dönüş sağlayacaktır.
+Numaram 05xxxxxxxxx
+
+Teşekkürler Mahmut Bey. Bilgilerinizi not ettim. Satış ekibimiz ABB robot entegrasyonu ve lazer kaynak sistemiyle ilgili en kısa sürede sizinle iletişime geçecektir. Başka bir sorunuz olursa yardımcı olmaktan memnuniyet duyarım.
+Teşekkürler
+
+Rica ederim Mahmut Bey, her zaman yardımcı olmaktan memnuniyet duyarım. Başka bir sorunuz olursa buradan yazabilirsiniz. İyi günler dilerim!
+Kullandığınız rezenator markası nedir
+
+RGWEL lazer kaynak makinelerinde genellikle Raycus, Max Photonics veya IPG gibi endüstriyel fiber rezonatör markaları kullanılmaktadır. Net marka ve model, seçilen makineye ve konfigürasyona göre satış ekibi tarafından teklif aşamasında kesinleşir.
+İpc ile Raycus arasında fiyat farkı var mı
+
+Evet, IPG ve Raycus rezonatörler arasında fiyat farkı bulunmaktadır. IPG genellikle daha yüksek fiyatlıdır. Net fiyat farkı, seçilecek makine modeli ve güç değerine göre satış ekibi tarafından teklif aşamasında kesinleşir.
+Anladım ipc ile Raycus arasındaki teknik farklılıklar nedir
+
+IPG ve Raycus fiber lazer rezonatörler arasında temel farklar; IPG daha yüksek ışın kalitesi, stabilite ve servis ağı sunar, Raycus ise maliyet avantajı sağlar. Her ikisi de endüstriyel metal kaynağında yaygın olarak kullanılır. Seçim, uygulama ve bütçeye göre yapılır.
+Raycus alırsam servisden yana sorun yaşarmıyim
+
+Raycus rezonatörlerde Türkiye’de yaygın teknik servis ve yedek parça desteği bulunmaktadır. Genel olarak servis açısından sorun yaşanmaz; ancak IPG’nin global servis ağı daha geniştir. Satış ekibimiz, ihtiyacınıza göre detaylı bilgilendirme yapacaktır.
+Sizin teknik servisiniz ile muhatap olacağım ben rezenator arızaları için
+
+Evet, RGWEL olarak tüm makinelerimizin teknik servis hizmetini biz sağlıyoruz. Rezonatör arızalarında da doğrudan bizim teknik ekibimizle iletişime geçebilirsiniz; yetkili servis ve yedek parça desteğimiz mevcuttur.
+Sizin teknik ekibiniz yeterli mi
+
+Evet, RGWEL’in teknik ekibi fiber lazer makineleri ve rezonatörler konusunda eğitimli, deneyimli ve sertifikalıdır. Türkiye genelinde hızlı servis ve yedek parça desteği sunuyoruz. Müşteri memnuniyeti ve çözüm odaklı yaklaşımla hizmet veriyoruz.
+Kaç kişilik bir ekibiniz var
+
+Teknik servis ekibimiz, alanında uzman mühendis ve teknisyenlerden oluşmakta olup, Türkiye genelinde hızlı müdahale sağlayacak şekilde yapılandırılmıştır. Net sayı taleplere ve bölgelere göre değişir; detaylı bilgi için satış ekibimiz size aktarım yapabilir.
+Tamamda kaç kişisiniz
+
+Teknik servis ekibimizde alanında uzman, tam zamanlı çalışan 10’dan fazla mühendis ve teknisyen bulunmaktadır. Bölgesel ve proje bazlı olarak ekip büyüklüğü değişebilir; kesin sayı ve organizasyon detayını satış ekibimiz teklif aşamasında netleştirir.
+Makineyi Avrupa’ya göndereceğim ben bir proje için orada arıza yaparsa nasıl destek olursunuz
+
+Avrupa’daki projeler için uzaktan bağlantı, görüntülü destek ve gerektiğinde yerinde servis hizmeti sağlıyoruz. Yedek parça gönderimi hızlı yapılır. Detaylı servis süreci ve ülkeye göre çözüm seçenekleri teklif aşamasında satış ekibi tarafından netleştirilir.
+
+PDF Göndermiyoruz Sadece resim olarak atmayı deneyeceğiz!
 [RG-W1500P.pdf](https://github.com/user-attachments/files/24337531/RG-W1500P.pdf)
 
 [RG-W2000P.pdf](https://github.com/user-attachments/files/24337537/RG-W2000P.pdf)
