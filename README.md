@@ -179,9 +179,4 @@ Makineyi Avrupa’ya göndereceğim ben bir proje için orada arıza yaparsa nas
 
 Avrupa’daki projeler için uzaktan bağlantı, görüntülü destek ve gerektiğinde yerinde servis hizmeti sağlıyoruz. Yedek parça gönderimi hızlı yapılır. Detaylı servis süreci ve ülkeye göre çözüm seçenekleri teklif aşamasında satış ekibi tarafından netleştirilir.
 
-PDF Göndermiyoruz Sadece resim olarak atmayı deneyeceğiz!
-[RG-W1500P.pdf](https://github.com/user-attachments/files/24337531/RG-W1500P.pdf)
-
-[RG-W2000P.pdf](https://github.com/user-attachments/files/24337537/RG-W2000P.pdf)
-
-[RG-W3000P.pdf](https://github.com/user-attachments/files/24337538/RG-W3000P.pdf)
+PDF Göndermiyoruz Sadece resim olarak gönderiyoruz.
